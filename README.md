@@ -1,4 +1,4 @@
-- 👋 Ola, sou Matheus Isac
+- Matheus Isac
 - Graduando em Engenharia de Computação
 - Especialidade python
 
