@@ -1,6 +1,6 @@
 - Matheus Isac
-- Graduando em Engenharia de Computação
-- Especialidade python
+- Graduado em Engenharia de Computação
+- Especialidade em Python, IA, PowerBI e Analise de Dados
 
 <div align="center">
   <a href="https://github.com/Matheusisac">
