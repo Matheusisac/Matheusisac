@@ -1,5 +1,5 @@
 - Matheus Isac
-- Graduado em Engenharia de Computação
+- Graduado em Engenharia de Computação pela UFG
 - Especialidade em Python, IA, PowerBI e Analise de Dados
 
 <div align="center">
